@@ -1,0 +1,196 @@
+canonical_identifier: bkk:krp/KR5g0120/v1
+canonical_location: https://kanripo.org/bkk/KR5g0120/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 峴泉集
+  identifiers:
+    alt_id:
+    - DZ1311
+  date: '2015-08-29 02:56:15.384882'
+  source:
+    repository: kanripo
+    path: KR5g0120
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  base_edition: HFL
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: HFL
+  label: 【正統道藏・涵芬樓版】
+- short: ZTDZ
+  label: 【正統道藏・三家本】
+- short: SJB
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0120_000.yaml, hash: 'sha256:c9352c7fb0fb4e36d25e44a2f5df86c805de4477f6f69cf542662cb38997a1f6'}
+  - {seq: 1, filename: KR5g0120_001.yaml, hash: 'sha256:dabac20da3838798ae064c150f0bd94683fc06e2a6fd3189c183fde1e8beaf20'}
+  - {seq: 2, filename: KR5g0120_002.yaml, hash: 'sha256:6dc1e04b7d222a603d46a2a7f61b4457ae08dcb7978d780568775abd21bd2c9e'}
+  - {seq: 3, filename: KR5g0120_003.yaml, hash: 'sha256:a0150d95d08de3ecc73f3d19b0b39b88e87914bdf7cc543122d05b41c160add1'}
+  - {seq: 4, filename: KR5g0120_004.yaml, hash: 'sha256:0298ae5c871946c297311b038ead1f42eca7017a7b7108e2f0e2db321190fde7'}
+  - {seq: 5, filename: KR5g0120_005.yaml, hash: 'sha256:e4a3cc6c690e4a9a5d9fdca10a5d8ba688c16388320ae428c7a0207b071870d1'}
+  - {seq: 6, filename: KR5g0120_006.yaml, hash: 'sha256:a9643d50fa7377a9195c2ce6276a3feb0628053886b43c138fba1b4bd79d0585'}
+  - {seq: 7, filename: KR5g0120_007.yaml, hash: 'sha256:6742738ebb772a1f54452113c55e70da179540f3a8143555f113e8988cefcfb6'}
+  - {seq: 8, filename: KR5g0120_008.yaml, hash: 'sha256:2bb169ad1fff8ad31a51f3e6304ff99fc0b91ad73a06ae8d18e308f38909a40c'}
+  - {seq: 9, filename: KR5g0120_009.yaml, hash: 'sha256:af7e960948fdcfb31dff8161c91aa58e4e1cab2533b8ea1dee0202b63d467402'}
+  - {seq: 10, filename: KR5g0120_010.yaml, hash: 'sha256:d06ebcf852c0a7dace2d20314d1e50a73db06e989a2f86c8d74541c43a8d4375'}
+  - {seq: 11, filename: KR5g0120_011.yaml, hash: 'sha256:63eacedcbd3e08c06b597743e9549ec8bd6756f166a20bcb5e4784f2b3185a3d'}
+  - {seq: 12, filename: KR5g0120_012.yaml, hash: 'sha256:02f9a5c5ad60c71265d2977cf84d7142bf5a4713636a6b74871ea74a19204d10'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0120_000.markers.yaml, hash: 'sha256:6fff5ca1df03fdcb94b4d5e4763ed6d789ab937d691e6787a644f86bff8cd98f'}
+  - {seq: 1, role: markers, filename: assets/KR5g0120_001.markers.yaml, hash: 'sha256:b09fddc0882cb70e46cd536b16e461da03c60e86e16f984825aedff39a61c2ec'}
+  - {seq: 2, role: markers, filename: assets/KR5g0120_002.markers.yaml, hash: 'sha256:73318c4b27aa424a29534f82f0cb2e0030451d5743a1c3a867711007a5877ac5'}
+  - {seq: 3, role: markers, filename: assets/KR5g0120_003.markers.yaml, hash: 'sha256:e8e89ea7d3383e4a468c849f6f724710cd5d635adb1253fed28440cab7dfa8fb'}
+  - {seq: 4, role: markers, filename: assets/KR5g0120_004.markers.yaml, hash: 'sha256:cf2c6083c3f9b4306f688dd1fb707f56bbc5e0379a7efa83940d5042086fe7e0'}
+  - {seq: 5, role: markers, filename: assets/KR5g0120_005.markers.yaml, hash: 'sha256:744edb1f86306a9d0adc0597abe816481b4ded6cfd3a7fce382872c9d940cf6d'}
+  - {seq: 6, role: markers, filename: assets/KR5g0120_006.markers.yaml, hash: 'sha256:65eb788b03541a9971c0ce41699ee93aea941ead0b06403924b2b67afc38eb33'}
+  - {seq: 7, role: markers, filename: assets/KR5g0120_007.markers.yaml, hash: 'sha256:e2ff0ab461d610289c5ef737ef8033422ba2e77d559f09bf70a84ed1296031a3'}
+  - {seq: 8, role: markers, filename: assets/KR5g0120_008.markers.yaml, hash: 'sha256:2902e55c6c6177a10262f9e6623b0297a48bbfa51c4e7316121eb0defc9257bc'}
+  - {seq: 9, role: markers, filename: assets/KR5g0120_009.markers.yaml, hash: 'sha256:283d506b262887c3b606e806ca0ba03d94a978cf5460f68fbe6a18673c624e7c'}
+  - {seq: 10, role: markers, filename: assets/KR5g0120_010.markers.yaml, hash: 'sha256:5f69ba0b9206b433cff47e076c0310536f8118fa66abd68c629119fb68b846f4'}
+  - {seq: 11, role: markers, filename: assets/KR5g0120_011.markers.yaml, hash: 'sha256:cb5d9b2e5df2eb87de48817cfacb381d544f977c9e0a4fba89a1943edce9d154'}
+  - {seq: 12, role: markers, filename: assets/KR5g0120_012.markers.yaml, hash: 'sha256:741d90a94a5792dd6a0f8781262d661b62bcb0ace7f065b083e9f15a24ff5f22'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0120_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 1394
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5g0120_HFL_001-001a
+    span:
+    - body
+    - 0
+    - 20916
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5g0120_HFL_002-001a
+    span:
+    - body
+    - 0
+    - 12868
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5g0120_HFL_003-001a
+    span:
+    - body
+    - 0
+    - 12501
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5g0120_HFL_004-001a
+    span:
+    - body
+    - 0
+    - 5606
+  label: juan 004
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5g0120_HFL_005-001a
+    span:
+    - body
+    - 0
+    - 2509
+  label: juan 005
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5g0120_HFL_006-001a
+    span:
+    - body
+    - 0
+    - 3920
+  label: juan 006
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5g0120_HFL_007-001a
+    span:
+    - body
+    - 0
+    - 6049
+  label: juan 007
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5g0120_HFL_008-001a
+    span:
+    - body
+    - 0
+    - 4574
+  label: juan 008
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR5g0120_HFL_009-001a
+    span:
+    - body
+    - 0
+    - 7487
+  label: juan 009
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5g0120_HFL_010-001a
+    span:
+    - body
+    - 0
+    - 2646
+  label: juan 010
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR5g0120_HFL_011-001a
+    span:
+    - body
+    - 0
+    - 7461
+  label: juan 011
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR5g0120_HFL_012-001a
+    span:
+    - body
+    - 0
+    - 2891
+  label: juan 012
+  type: section
+  level: 1
+hash: sha256:0d91096df3a67b8beeee6b5ab0881cb2709291b4d3fb4c932c2f6b695511c954
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
